@@ -1,0 +1,10 @@
+.app {
+    display: block;
+    width: 400px;
+    margin: auto;
+    margin-top: 150;
+}
+
+body {
+    background-color: white;
+}
