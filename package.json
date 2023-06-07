@@ -1,6 +1,6 @@
 {
   "name": "dummy-nodejs-todo",
-  "version": "0.1.1",
+  "version": "0.1",
   "description": "A simple to do server",
   "main": "index.js",
   "scripts": {
